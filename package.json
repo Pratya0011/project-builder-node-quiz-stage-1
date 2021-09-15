@@ -1,0 +1,22 @@
+{
+  "name": "project-builder-node-quiz-stage-1",
+  "version": "1.0.0",
+  "description": "![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratya0011/project-builder-node-quiz-stage-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pratya0011/project-builder-node-quiz-stage-1/issues"
+  },
+  "homepage": "https://github.com/Pratya0011/project-builder-node-quiz-stage-1#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
